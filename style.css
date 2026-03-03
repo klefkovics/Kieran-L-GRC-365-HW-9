@@ -14,3 +14,38 @@ p {
   background-color: #004643;
   border: 1.5px solid #e16162;
 }
+
+.one {
+  width: 200px;
+  height: 25px;
+}
+
+.two {
+  padding: 10px 15px;
+}
+
+.three {
+  border-radius: 10px;
+}
+
+.four {
+  margin: 20px 10px;
+}
+
+.five {
+  width: 200px;
+  margin: 10px auto;
+}
+
+.six {
+  min-width: 200px;
+  max-width: 300px;
+  min-height: 25px;
+  max-height: 50px;
+}
+
+.seven {
+  width: 50px;
+  height: 25px;
+  overflow: scroll;
+}
